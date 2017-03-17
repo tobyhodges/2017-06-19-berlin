@@ -1,3 +1,5 @@
+**To see the workshop webpage, go to [tobyhodges.github.io/2017-06-19-berlin/](https://tobyhodges.github.io/2017-06-19-berlin/)**
+
 # workshop-template
 
 This repository is [Software Carpentry][swc-site] and [Data Carpentry][dc-site]'s
